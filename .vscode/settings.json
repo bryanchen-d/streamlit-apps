@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/27de6be1-d524-44f2-9a95-10ab33646cc7/AppServices/subscriptions/27de6be1-d524-44f2-9a95-10ab33646cc7/resourceGroups/streamlit-test-app/providers/Microsoft.Web/sites/streamlit-test-app",
+  "appService.deploySubpath": "test-app"
+}
